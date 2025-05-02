@@ -1,0 +1,18 @@
+table {
+  border: 1px solid black;
+  margin-top: 20px;
+  width: 30%;
+}
+
+th {
+  border: 1px solid black;
+  font-weight: normal;
+}
+
+td {
+  border: 1px solid black;
+}
+
+#total {
+  font-weight: bold;
+}
